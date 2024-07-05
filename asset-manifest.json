@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/platanud/static/css/main.1d45436d.css",
-    "main.js": "/platanud/static/js/main.972ca7e0.js",
+    "main.js": "/platanud/static/js/main.dbec70f3.js",
     "static/js/453.c0dc104a.chunk.js": "/platanud/static/js/453.c0dc104a.chunk.js",
     "index.html": "/platanud/index.html",
     "main.1d45436d.css.map": "/platanud/static/css/main.1d45436d.css.map",
-    "main.972ca7e0.js.map": "/platanud/static/js/main.972ca7e0.js.map",
+    "main.dbec70f3.js.map": "/platanud/static/js/main.dbec70f3.js.map",
     "453.c0dc104a.chunk.js.map": "/platanud/static/js/453.c0dc104a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d45436d.css",
-    "static/js/main.972ca7e0.js"
+    "static/js/main.dbec70f3.js"
   ]
 }
