@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/platanud/static/css/main.b15bedab.css",
+    "main.js": "/platanud/static/js/main.fdf78423.js",
+    "static/js/453.d842afc6.chunk.js": "/platanud/static/js/453.d842afc6.chunk.js",
+    "index.html": "/platanud/index.html",
+    "main.b15bedab.css.map": "/platanud/static/css/main.b15bedab.css.map",
+    "main.fdf78423.js.map": "/platanud/static/js/main.fdf78423.js.map",
+    "453.d842afc6.chunk.js.map": "/platanud/static/js/453.d842afc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b15bedab.css",
+    "static/js/main.fdf78423.js"
+  ]
+}
