@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #f5f5f5;
+  }
+  
+  nav {
+    background-color: #1976d2; /* Cambia el color de fondo del navbar */
+    color: white;
+  }
+  
+  footer {
+    background-color: #1976d2; /* Cambia el color de fondo del footer */
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+  }
+  
+  .container {
+    padding: 2rem;
+  }
+  
