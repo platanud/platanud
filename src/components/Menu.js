@@ -54,7 +54,7 @@ const Menu = () => {
             <Card
                 header="Propagación de Ondas"
                 text="Este es un texto de ejemplo que se mostrará en el cuerpo de la tarjeta."
-                url="/WavePropagation"
+                url="wavepropagation"
 
             />
         </div>
@@ -62,7 +62,7 @@ const Menu = () => {
             <Card
                 header="Polarización"
                 text="Este es un texto de ejemplo que se mostrará en el cuerpo de la tarjeta."
-                url="/Polarization"
+                url="polarization"
             />
         </div>
       </div>

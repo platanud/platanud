@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="navbar-expand-lg bg-primary" data-bs-theme="dark">
       <div className="p-2 d-flex align-middle">
-        <a className="navbar-brand m-auto" href="/">
+        <a className="navbar-brand m-auto" href="/platanud">
           PlatanUD
         </a>
       </div>
