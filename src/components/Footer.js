@@ -1,15 +1,15 @@
 import React from 'react';
-import Typography from '@mui/material/Typography';
-import Box from '@mui/material/Box';
 
 const Footer = () => {
   return (
-    <Box sx={{ bgcolor: 'primary.main', color: 'white', p: 2, mt: 'auto', textAlign: 'center' }}>
-      <Typography variant="body1">
-        &copy; 2024 Amanogawa V2
-      </Typography>
-    </Box>
+    <footer className="bg-primary text-white text-center py-2 mt-auto">
+      <div className="container">
+        <p className="mb-0"> Fredy Gomez, Nedzib Sastoque</p>
+        <p className="mb-0">Universidad Distrital Francisco Jose de Caldas</p>
+      </div>
+    </footer>
   );
 };
 
 export default Footer;
+
