@@ -18,9 +18,9 @@ const App = () => {
                 <Navbar />
                 <div style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
                     <Routes>
-                        <Route exact path="/" element={<Menu />} />
-                        <Route exact path="/wavepropagation" element={<WavePropagation />} />
-                        <Route exact path="/polarization" element={<Polarization />} />
+                        <Route exact path="/platanud" element={<Menu />} />
+                        <Route exact path="/platanud/wavepropagation" element={<WavePropagation />} />
+                        <Route exact path="/platanud/polarization" element={<Polarization />} />
                     </Routes>
                 </div>
                 <Footer />
